@@ -21,20 +21,29 @@ Manage Script
 ------------------------------------------
 ## :book: Installation - Without DNS
 
- 1) ```sh 
+```sh 
  apt-get update -y && apt-get upgrade -y
   ```
-
-2) sudo reboot (update එකෙන් පසු restart කිරීමට)
-
-4) sudo git clone https://github.com/iiTzIsh/bash-xray-script
-
-5) cd bash-xray-script
-
-6) sudo chmod +x xray-nodomain.sh
-
-7) sudo ./xray-nodomain.sh
-
+```sh 
+sudo reboot (update එකෙන් පසු restart කිරීමට)
+ ```
+ 
+```sh 
+sudo git clone https://github.com/iiTzIsh/bash-xray-script
+ ```
+ 
+```sh 
+cd bash-xray-script
+ ```
+ 
+```sh 
+sudo chmod +x xray-nodomain.sh
+ ```
+ 
+```sh 
+sudo ./xray-nodomain.sh
+ ```
+ 
 ------------------------------------------
 
 ## :book: How To Connect
