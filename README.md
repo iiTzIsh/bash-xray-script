@@ -3,7 +3,7 @@
 * UPDATE 21/05/2021 - added xray-nodomain script (see usage and installation below)
 
 
-![logo](https://user-images.githubusercontent.com/118674919/204209206-9e8d1b5b-3d95-4ffa-b054-146a9473bcc2.png)
+![logo](https://user-images.githubusercontent.com/118674919/204209549-d719ed81-c152-4851-938f-938c8f82dee7.png)
 
 
 
