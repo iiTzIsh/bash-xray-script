@@ -25,7 +25,7 @@ Manage Script
  apt-get update -y && apt-get upgrade -y
   ```
 ```sh 
-sudo reboot (update එකෙන් පසු restart කිරීමට)
+sudo reboot
  ```
  
 ```sh 
@@ -61,16 +61,26 @@ https://github.com/2dust/v2rayNG)
 
 ## :book: Unistallation (Remove xray-core and all modified config files from the server) *will not remove BBR
 
-1) sudo rm  -rf  ~/bash-xray-script
+```sh 
+sudo rm  -rf  ~/bash-xray-script
+ ```
 
-2) sudo git clone https://github.com/iiTzIsh/bash-xray-script
+```sh 
+sudo git clone https://github.com/iiTzIsh/bash-xray-script
+ ```
 
-3) cd bash-xray-script
+```sh 
+cd bash-xray-script
+ ```
 
-4) sudo chmod 777 remove-xray.sh
+```sh 
+sudo chmod 777 remove-xray.sh
+ ```
 
-5) sudo ./remove-xray.sh
-
+```sh 
+sudo ./remove-xray.sh
+ ```
+ 
 ## :octocat: Credits
 
 1. https://github.com/teddysun - BBR autoscript
