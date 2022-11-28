@@ -80,6 +80,7 @@ sudo chmod 777 remove-xray.sh
 ```sh 
 sudo ./remove-xray.sh
  ```
+ ------------------------------------------
  
 ## :octocat: Credits
 
