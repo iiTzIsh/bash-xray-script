@@ -1,6 +1,6 @@
 # Bash|Xray-Script
 
-* UPDATE 21/05/2021 - added xray-nodomain script (see usage and installation below)
+* UPDATE 28/11/2022 - added xray-nodomain script (see usage and installation below)
 
 
 ![logo](https://user-images.githubusercontent.com/118674919/204209549-d719ed81-c152-4851-938f-938c8f82dee7.png)
@@ -21,17 +21,17 @@ Manage Script
 ------------------------------------------
 ## :book: Installation - Without DNS
 
-1)apt-get update -y && apt-get upgrade -y
+1) apt-get update -y && apt-get upgrade -y
 
-2)sudo reboot (update එකෙන් පසු restart කිරීමට)
+2) sudo reboot (update එකෙන් පසු restart කිරීමට)
 
-4)sudo git clone https://github.com/iamtrazy/bash-xray-script
+4) sudo git clone https://github.com/iiTzIsh/bash-xray-script
 
-5)cd bash-xray-script
+5) cd bash-xray-script
 
-6)sudo chmod +x xray-nodomain.sh
+6) sudo chmod +x xray-nodomain.sh
 
-7)sudo ./xray-nodomain.sh
+7) sudo ./xray-nodomain.sh
 
 ------------------------------------------
 
@@ -52,7 +52,7 @@ https://github.com/2dust/v2rayNG)
 
 1) sudo rm  -rf  ~/bash-xray-script
 
-2) sudo git clone https://github.com/iamtrazy/bash-xray-script
+2) sudo git clone https://github.com/iiTzIsh/bash-xray-script
 
 3) cd bash-xray-script
 
@@ -63,8 +63,6 @@ https://github.com/2dust/v2rayNG)
 ## :octocat: Credits
 
 1. https://github.com/teddysun - BBR autoscript
-2. Team Rezoth - Contributor
-3. @Savinda1 - for the awesome readme file 😎
 
 
-☆ https://t.me/rezoth_tm ☆
+☆ https://t.me/Hpimadushanka ☆
