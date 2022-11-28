@@ -21,8 +21,8 @@ Manage Script
 ------------------------------------------
 ## :book: Installation - Without DNS
 
- ```sh 
-1) apt-get update -y && apt-get upgrade -y
+ 1) ```sh 
+ apt-get update -y && apt-get upgrade -y
   ```
 
 2) sudo reboot (update එකෙන් පසු restart කිරීමට)
